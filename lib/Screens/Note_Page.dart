@@ -3,7 +3,7 @@ import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:note_app/Models/note.dart';
 import 'package:note_app/Screens/detales_page_note.dart';
 import 'package:note_app/Screens/setting_page.dart';
-import 'package:note_app/Servies/SharedPreferencesHelper.dart';
+import 'package:note_app/Services/SharedPreferencesHelper.dart';
 import 'package:note_app/generated/l10n.dart';
 
 class NotePage extends StatefulWidget {
