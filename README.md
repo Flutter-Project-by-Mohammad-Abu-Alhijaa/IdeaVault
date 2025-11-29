@@ -79,7 +79,7 @@ Before running the project, ensure you have:
 
 ```bash
 git clone https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/IdeaVault.git
-cd Thought-Keeper
+cd IdeaVault
 ```
 
 - Install dependencies
