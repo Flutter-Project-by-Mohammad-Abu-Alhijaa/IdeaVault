@@ -42,8 +42,7 @@ Its multilingual UI makes it suitable for global audiences while maintaining smo
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/SQFLite-4D8FAC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Localization-I10n-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Architecture-MVC_(Clean_Structure)-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVC_(Clean_Structure)-blue?style=for-the-badge" />
 
 </div>
 
